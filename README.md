@@ -12,7 +12,7 @@ Python · Java · PHP · JavaScript · SQL
 Flask · Jakarta Servlet/JSP · MySQL · OpenCV
 
 ### Qualifications
-FE · IP · JLPT N4 · English C1 Level
+FE · IP · JLPT N3 · English C1 Level
 
 ### Social Media Accounts
 LinkedIn : https://www.linkedin.com/in/yoon-nwe-htun-190935401/
