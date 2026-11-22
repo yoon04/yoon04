@@ -11,14 +11,9 @@ language learning app design, and fuzzy logic applications.
 Python · Java · PHP · JavaScript · SQL  
 Flask · Jakarta Servlet/JSP · MySQL · OpenCV
 
-### Selected Projects
-- **EcoQuest** — An educational game about Borneo's flora and fauna.
-- **Tomo Nihongo** — UI/UX design for a Japanese learning app.
-- **Newborn Health Risk Assessment** — An academic fuzzy logic project.
-
 ### Qualifications
 FE · IP · JLPT N4 · English C1 Level
 
-## Social Media Accounts
+### Social Media Accounts
 LinkedIn : https://www.linkedin.com/in/yoon-nwe-htun-190935401/
 Portfolio : 
