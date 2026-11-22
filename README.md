@@ -15,5 +15,5 @@ Flask · Jakarta Servlet/JSP · MySQL · OpenCV
 FE · IP · JLPT N3 · English C1 Level
 
 ### Social Media Accounts
-LinkedIn : https://www.linkedin.com/in/yoon-nwe-htun-190935401/
+LinkedIn : https://www.linkedin.com/in/yoon-nwe-htun-190935401/ <br>
 Portfolio : https://yoon-nwe-htun-portfolio.vercel.app/
