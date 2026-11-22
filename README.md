@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Yoon Nwe Htun 👋
 
-<!--
-**yoon04/yoon04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Knowledge Engineering student at the University of
+Information Technology, Yangon, Myanmar.
 
-Here are some ideas to get you started:
+I enjoy building web applications and exploring how AI can
+solve practical problems. My projects include educational games,
+language learning app design, and fuzzy logic applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies
+Python · Java · PHP · JavaScript · SQL  
+Flask · Jakarta Servlet/JSP · MySQL · OpenCV
+
+### Selected Projects
+- **EcoQuest** — An educational game about Borneo's flora and fauna.
+- **Tomo Nihongo** — UI/UX design for a Japanese learning app.
+- **Newborn Health Risk Assessment** — An academic fuzzy logic project.
+
+### Qualifications
+FE · IP · JLPT N4 · English C1 Level
+
+## Social Media Accounts
+LinkedIn : https://www.linkedin.com/in/yoon-nwe-htun-190935401/
+Portfolio : 
